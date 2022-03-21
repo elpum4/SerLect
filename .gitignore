@@ -1,0 +1,9 @@
+# Compiled output
+/dist
+/build
+/out-tsc
+/bazel-out
+
+*.ini
+
+
